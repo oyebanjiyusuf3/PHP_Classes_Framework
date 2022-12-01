@@ -1,7 +1,7 @@
 <?php
 /*
 * Mailer Class
-* By 
+* By Yusuf
 *
 * A simple class to allow quick and
 * easy customisation, and sending 
