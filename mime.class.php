@@ -1,7 +1,7 @@
 <?php
 /*
 * MIME Type PHP Class
-* By 
+* By Yusuf
 * 
 * Static class that allows easy
 * retrieval of the MIME types of
