@@ -1,7 +1,7 @@
 <?php
 /*
 * PHP User Login Class
-* by Timothy 'TiM' Oliver
+* by Yusuf
 * 
 * A class that handles
 * user registeration, login,
@@ -10,7 +10,7 @@
 *
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 2022 Yusuf
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
