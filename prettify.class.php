@@ -1,14 +1,14 @@
 <?php
 /*
 * Code Prettifier
-* By Timothy 'TiM' Oliver
+* By 
 * 
 * A simple class to easily allow refactoring
 * of standard 3GL code to proper formatting standards
 *
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal

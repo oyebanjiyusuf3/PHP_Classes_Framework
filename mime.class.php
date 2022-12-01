@@ -1,7 +1,7 @@
 <?php
 /*
 * MIME Type PHP Class
-* By Timothy 'TiM' Oliver
+* By 
 * 
 * Static class that allows easy
 * retrieval of the MIME types of
@@ -9,7 +9,7 @@
 *
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal

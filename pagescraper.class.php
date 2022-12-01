@@ -1,15 +1,14 @@
 <?php
 /*
 * HTML Page Scraper Class
-* by Timothy 'TiM' Oliver
-* 
+* by 
 * Abstraction class to streamline downloading
 * web pages and then scraping data using regular
 * expressions.
 * 
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
