@@ -1,7 +1,7 @@
 <?php
 /*
 * MIME types master list
-*i am going to sc
+*i am going to sch
 * A master array of file formats and their MIME types
 */
 
