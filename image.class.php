@@ -1,14 +1,14 @@
 <?php
 /*
 * PHP Image Class
-* by Timothy 'TiM' Oliver
+* by 
 * 
 * A class to handle basic
 * image manipulation using the 
 * GD Library.
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
