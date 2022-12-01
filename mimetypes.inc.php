@@ -1,7 +1,7 @@
 <?php
 /*
 * MIME types master list
-*i am going to schoo
+*i am going to mosq
 * A master array of file formats and their MIME types
 */
 
