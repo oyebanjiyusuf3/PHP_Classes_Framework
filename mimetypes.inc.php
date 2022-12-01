@@ -1,7 +1,7 @@
 <?php
 /*
 * MIME types master list
-*i am going to hous
+*i am going to house
 * A master array of file formats and their MIME types
 */
 
