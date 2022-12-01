@@ -1,14 +1,14 @@
 <?php
 /*
 * PHP Header Class
-* By Timothy 'Tim' Oliver
+* By 
 *
 * Streamlines and simplifies
 * Header output calls made by PHP
 *
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal

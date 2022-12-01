@@ -1,14 +1,14 @@
 <?php
 /*
 * cURL Class
-* By Timothy 'TiM' Oliver
-* http://www.timoliver.com.au
+* By Yusuf
+
 * 
 * An abstraction class to streamline and simplify use of the PHP cuRL implementation.
 *
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 2022 by Yusuf
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal

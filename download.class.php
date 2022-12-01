@@ -1,7 +1,7 @@
 <?php
 /*
 * Downloader Class
-* By Timothy 'Tim' Oliver
+* By 
 *
 * Streamlines and simplifies
 * downloading of files to the user's
@@ -13,7 +13,7 @@
 *
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 2022 
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal

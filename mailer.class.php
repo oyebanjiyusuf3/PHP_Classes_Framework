@@ -1,7 +1,7 @@
 <?php
 /*
 * Mailer Class
-* By Timothy 'TiM' Oliver
+* By 
 *
 * A simple class to allow quick and
 * easy customisation, and sending 
@@ -9,7 +9,7 @@
 *
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
