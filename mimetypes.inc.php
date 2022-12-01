@@ -1,7 +1,7 @@
 <?php
 /*
 * MIME types master list
-*i am go
+*i am goi
 * A master array of file formats and their MIME types
 */
 
