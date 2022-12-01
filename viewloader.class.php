@@ -1,15 +1,14 @@
 <?php
 /*
 * ViewLoader Class
-* by Timothy 'TiM' Oliver
-* http://www.timoliver.com.au
+* by Yusuf
 *
 * A class that handles blending of dynamic data with an HTML template
 * following the design of the Model-View-Controller paradigm.
 * 
 * ============================================================================
 * 
-* Copyright (C) 2011 by Tim Oliver
+* Copyright (C) 2022 Yusuf
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
