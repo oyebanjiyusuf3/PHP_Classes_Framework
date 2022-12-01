@@ -1,7 +1,7 @@
 ## PHP Framework Class Collection
-By Tim Oliver
+By Yusuf
 
-http://github.com/TimOliver/PHP-Framework-Classes/
+
 
 ---
 
@@ -14,7 +14,7 @@ It has been provided with no guarantee of support or future development.
 
 ---
 
-Copyright (C) 2011 by Tim Oliver
+Copyright (C) 2022 by Yusuf 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
