@@ -1,7 +1,7 @@
 <?php
 /*
 * SVG Renderer Class
-* by 
+* by Y
 * 
 * A class that abstracts and
 * simplifies the process of dynamically
