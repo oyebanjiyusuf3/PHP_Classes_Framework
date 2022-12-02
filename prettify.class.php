@@ -1,7 +1,7 @@
 <?php
 /*
 * Code Prettifier
-* By 
+* By  Yusuf
 * 
 * A simple class to easily allow refactoring
 * of standard 3GL code to proper formatting standards
