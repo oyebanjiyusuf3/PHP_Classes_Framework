@@ -1,7 +1,7 @@
 <?php
 /*
 * HTML Page Scraper Class
-* by 
+* by Yusuf
 * Abstraction class to streamline downloading
 * web pages and then scraping data using regular
 * expressions.
