@@ -1,7 +1,7 @@
 <?php
 /*
 * PHP Input Sanitation Class
-* by Y
+* by Yu
 * 
 * A class to allow efficient
 * filtering of all of the 
